@@ -1,0 +1,48 @@
+.SortingVisualiser{
+    text-align: center;
+}
+.frame{
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin:5em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 220px;
+}
+.card{
+    border-radius: 2em;
+    padding: 0 1em;
+    
+}
+.controller {
+	background-color: #555;
+	margin: 0 1em;
+	border: 0.1px solid;
+	height: 3em;
+	width: 3em;
+	border-radius: 100%;
+	background: transparent;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.control-buttons {
+	height: 4em;
+	width: 15em;
+	background: beige;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.control-pannel {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
