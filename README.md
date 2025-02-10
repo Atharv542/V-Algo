@@ -30,6 +30,6 @@ This repository contains an Algorithm Visualize featuring two primary types of v
 - Logic: Algorithms implemented in JavaScript/TypeScript modules
 
 #Sorting Visualiser
-![Sorting](./
+![Sorting](./Screenshot%202025-02-10%20232516.png)
 
 
