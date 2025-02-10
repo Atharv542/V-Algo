@@ -32,4 +32,7 @@ This repository contains an Algorithm Visualize featuring two primary types of v
 #Sorting Visualiser
 ![Sorting](./Screenshot%202025-02-10%20232516.png)
 
+#Path Finder
+![PathFinder](./Screenshot%202025-02-10%20232705.png)
+
 
