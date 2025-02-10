@@ -29,6 +29,7 @@ This repository contains an Algorithm Visualize featuring two primary types of v
 - Frontend: React.js, TailwindCSS
 - Logic: Algorithms implemented in JavaScript/TypeScript modules
 
-
+#Sorting Visualiser
+![Sorting](./
 
 
